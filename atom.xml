@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KevinQiChurchillHS.github.io</id>
     <title>Kevin Qi Churchill HS</title>
-    <updated>2021-10-17T02:14:54.456Z</updated>
+    <updated>2022-02-13T20:21:36.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://KevinQiChurchillHS.github.io"/>
     <link rel="self" href="https://KevinQiChurchillHS.github.io/atom.xml"/>
     <subtitle>My Git website</subtitle>
     <logo>https://KevinQiChurchillHS.github.io/images/avatar.png</logo>
     <icon>https://KevinQiChurchillHS.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Kevin Qi Churchill HS</rights>
+    <rights>All rights reserved 2022, Kevin Qi Churchill HS</rights>
     <entry>
         <title type="html"><![CDATA[First Article]]></title>
         <id>https://KevinQiChurchillHS.github.io/post/first-article/</id>
         <link href="https://KevinQiChurchillHS.github.io/post/first-article/">
         </link>
-        <updated>2021-10-03T11:35:13.000Z</updated>
+        <updated>2021-10-02T23:35:13.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  Welcome to my site ！<br>
 ✍️  The site is created to share useful information!</p>
 ]]></summary>
@@ -39,7 +39,7 @@
         <id>https://KevinQiChurchillHS.github.io/post/hello-gridea/</id>
         <link href="https://KevinQiChurchillHS.github.io/post/hello-gridea/">
         </link>
-        <updated>2018-12-10T14:00:00.000Z</updated>
+        <updated>2018-12-10T01:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  Welcome to my site ！<br>
 ✍️  The site is created to share useful information!</p>
 ]]></summary>
@@ -51,8 +51,9 @@
 <a href="http://fehey.com/">Links</a></p>
 <h2 id="features">Features👇</h2>
 <p>📝  Markdown</p>
-<p>🌉  My Art Works</p>
-<p>🏷️  Tags</p>
+<p>🌉  My Art Works<br>
+<img src="https://KevinQiChurchillHS.github.io/post-images/1644783685020.jpg" alt="" loading="lazy"><br>
+🏷️  Tags</p>
 <p>📋  Manu</p>
 <p>💻  <strong>Windows</strong>，<strong>MacOS</strong>  <strong>Linux</strong> compatible</p>
 <p>🌎  Linked Sites</p>
